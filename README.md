@@ -1,3 +1,1 @@
-# MUVSO
-
-Telegram Mini App for personal finance.
+# MUVSO\n\nTelegram Mini App для личных финансов.\n\n- баланс и безопасная сумма на сегодня\n- расходы/доходы\n- быстрый ввод обычной фразой\n- статистика, история и цели\n- Telegram WebApp ready/expand\n
